@@ -1,0 +1,3 @@
+python plot_results.py
+python main.py
+venv\Scripts\activate

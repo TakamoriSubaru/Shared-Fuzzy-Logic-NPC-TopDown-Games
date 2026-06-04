@@ -1,0 +1,20 @@
+WIDTH = 1000
+HEIGHT = 700
+FPS = 120
+
+PLAYER_RADIUS = 12
+PLAYER_SPEED = 3
+PLAYER_MAX_HP = 100
+
+NPC_COUNT = 100
+NPC_RADIUS = 6
+NPC_SPEED = 1.2
+NPC_DAMAGE = 0.2
+
+BG_COLOR = (20,20,20)
+PLAYER_COLOR = (0,255,0)
+NPC_COLOR = (255,80,80)
+
+CSV_FILE = "results.csv"
+
+ADAPTIVE_AI = True   # 🔴 ubah ke False untuk baseline experiment
